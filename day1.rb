@@ -15,3 +15,5 @@
 
 # Diagram
 # Person -->  DockingStation --> release_bike --> Bike
+
+# bike <-- working? --> true/false
