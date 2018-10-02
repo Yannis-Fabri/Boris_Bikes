@@ -14,4 +14,5 @@
 #Bike | 
 
 #Diagram
-#Person => Docking_Station => Bike
+
+# Person -->  DockingStation --> release_bike --> a Bike
