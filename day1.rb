@@ -17,3 +17,10 @@
 # Person -->  DockingStation --> release_bike --> Bike
 
 # bike <-- working? --> true/false
+
+# Error code:
+# NameError: uninitialized constant DockingStation
+# from (irb):1
+# from /Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'
+
+#
