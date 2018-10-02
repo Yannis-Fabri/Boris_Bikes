@@ -12,3 +12,6 @@
 #Person |
 #Docking_Station | 
 #Bike | 
+
+#Diagram
+#Person => Docking_Station => Bike
